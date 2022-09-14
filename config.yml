@@ -1,0 +1,20 @@
+dev:
+  password: shptka_62392155d3d1e7e5801d96f35b4777ef
+  theme_id: 131979739335
+  store: having-fun-101.myshopify.com
+  preview_url:
+  ignore_files:
+    - config/settings_data.json
+    - settings_data.json
+    - templates/*.json
+
+prod:
+  password: shptka_62392155d3d1e7e5801d96f35b4777ef
+  theme_id: 131979739335
+  store: having-fun-101.myshopify.com
+  preview_url:
+  ignore_files:
+    - config/settings_data.json
+    - settings_data.json
+    - templates/*.json
+
